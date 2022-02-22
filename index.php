@@ -9,8 +9,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="keywords" content="SEO, seo, search engine optimization, google, rédaction, copywriting, référencement, research, UX, experience utilisateur">
+    <meta name="description" content="pour améliorer le SEO">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style/style.css">
 
     <title>Documents</title>
 </head>
