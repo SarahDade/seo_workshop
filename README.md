@@ -1,1 +1,1 @@
-# seo_workshop
+# workshop
